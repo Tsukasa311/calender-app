@@ -1,5 +1,4 @@
 import React from "react";
-
 import * as styles from "./style.css";
 
 const CalendarElement = ({ children }) => {
